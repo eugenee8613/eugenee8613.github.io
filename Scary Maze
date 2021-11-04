@@ -44,16 +44,18 @@
         <div class="container">
 
             <h1 class="margin text-center">My Movie Website Project</h1>
-            <p>I made</p>
-            <p>This is where my and my partner made a website about a spooky maze   .</p>
-            <a href="#">Link about the project</a><br>
+            <p>I learned how to use Css and html to make this website.</p>
+            <p>This is where my and my partner made a website about a spooky maze.</p>
+            <a href="https://Movie-WebPage.arianas4499.repl.co">Preview of My Project</a><br>
+            <a href="https://replit.com/@arianas4499/Movie-WebPage#index.html">The Code of the Project</a><br>
+
 
             <!--EXAMPLE OF PREVIEW LINK-->
             <!--<a href="http://yourUserName.github.io/yourRepoName">Preview</a><br>-->
             <!--EXAMPLE OF GITHUB LINK-->
             <!--<a href="http://github.com/yourUserName/yourRepoName">Github</a><br>-->
 
-            <img src="../img/website.png" class="img-fluid project-img">
+            <img src="../img/my-website.png" class="img-fluid project-img">
 
 
             <div class="row">
